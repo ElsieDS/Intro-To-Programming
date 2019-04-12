@@ -1,0 +1,2 @@
+    myTable += "<td><button onclick='calculate_total"(" + i + ")'>Checkout</button></td>";
+    document.write(grandTotal)
